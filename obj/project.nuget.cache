@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcjhtKCTpC6FKSZzD22gSnc3VrlMVuxA0njTEbzLo/eA7cWINPcuJJnb5RD+lcw0J8uNfxQzEybQFHceYsrpAw==",
+  "success": true,
+  "projectFilePath": "/home/runner/PoshVioletBackend/main.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
